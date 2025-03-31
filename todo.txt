@@ -1,0 +1,11 @@
+Todo:
+
+o Incorporate text descriptions into ALS model
+o Implement Alternating Least Squares Algorithm (or better handle implicit's)
+o Test k for # of latent features in the ALS model
+o Find some way to test the model
+
+o Configure frontend
+o Configure backend
+
+o Implement overall recommendation engine for items
