@@ -1,11 +1,19 @@
 Todo:
 
+These cover:
+1 - Personalization (Done with Feedback Loop)
+2 - Relevance ✔️
+3 - Feedback Loop 
+4 - Handling Cold Starts ✔️
+
+Can also cover:
+o Transparency
+o Exploration & Exploitation
+
 o Incorporate text descriptions into ALS model
 o Implement Alternating Least Squares Algorithm (or better handle implicit's)
-o Test k for # of latent features in the ALS model
-o Find some way to test the model
 
-o Configure frontend
-o Configure backend
+o Test k for # of latent features in the ALS model
+o Find some way to test the model (Offline - RMSE, Online - Interface)
 
 o Implement overall recommendation engine for items
